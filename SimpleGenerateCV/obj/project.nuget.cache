@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HaYyh6gxDAHgMakyE2sQLG78rD80F7xVqk+8I8xeAZR9h13RjqKyPQK0mOPQRpzKLcaPMZTE55XyhJtpiIAovA==",
+  "success": true,
+  "projectFilePath": "D:\\MyProject\\SimpleGenerateCV\\SimpleGenerateCV\\SimpleGenerateCV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khanhtran148\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\khanhtran148\\.nuget\\packages\\docx\\2.5.0\\docx.2.5.0.nupkg.sha512",
+    "C:\\Users\\khanhtran148\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\khanhtran148\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\khanhtran148\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\khanhtran148\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
